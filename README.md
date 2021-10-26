@@ -6,8 +6,10 @@
 
 ### install packages
 
-` cd student-management-py`
- ####Then
-`pip3 install -r requirements.txt`
+``` 
+cd student-management-py
+AND
+pip3 install -r requirements.txt
+```
 
 This is our second python application with pandas library.
